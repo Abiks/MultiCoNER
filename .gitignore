@@ -132,3 +132,7 @@ dmypy.json
 data/dev_dataset.json
 data/train_dataset.json
 
+
+# "notebooks" is supposed to be personal workspace
+/notebooks
+
