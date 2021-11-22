@@ -1,0 +1,90 @@
+{
+    "KO": {
+        "GRP": "초등학교",
+        "CW": "한서",
+        "LOC": "대한민국",
+        "PROD": "스마트폰",
+        "CORP": "tvn",
+        "PER": "반고"
+    },
+    "FA": {
+        "CW": "فیلم",
+        "PER": "سیاستمدار",
+        "LOC": "ایران",
+        "PROD": "کانی",
+        "CORP": "بی‌بی‌سی",
+        "GRP": "موزیک‌برینز"
+    },
+    "EN": {
+        "PER": "jesus",
+        "GRP": "nato",
+        "CW": "single",
+        "LOC": "france",
+        "CORP": "bbc",
+        "PROD": "stucco"
+    },
+    "NL": {
+        "CW": "single",
+        "LOC": "franse",
+        "PER": "zetterstedt",
+        "PROD": "motorfiets",
+        "CORP": "bbc",
+        "GRP": "plaats"
+    },
+    "RU": {
+        "GRP": "колхоз",
+        "PER": "женщин",
+        "CW": "сингл",
+        "PROD": "dvd",
+        "CORP": "mtv",
+        "LOC": "париж"
+    },
+    "HI": {
+        "CW": "बोर्ड",
+        "PROD": "प्लास्टर",
+        "PER": "इलैयाराजा",
+        "LOC": "जर्मनी",
+        "CORP": "बीबीसी",
+        "GRP": "गार्डियन"
+    },
+    "DE": {
+        "LOC": "frankreich",
+        "PER": "superheld",
+        "CORP": "variety",
+        "GRP": "queen",
+        "CW": "musikvideo",
+        "PROD": "stuck"
+    },
+    "ZH": {
+        "LOC": "省",
+        "PROD": "iphone",
+        "GRP": "funimation",
+        "CW": "android",
+        "CORP": "hbo",
+        "PER": "t.i."
+    },
+    "ES": {
+        "CW": "sencillo",
+        "CORP": "netflix",
+        "PROD": "dvd",
+        "PER": "madonna",
+        "LOC": "españa",
+        "GRP": "2010"
+    },
+    "BN": {
+        "CORP": "ভ্যারাইটি",
+        "GRP": "জাতিসংঘ",
+        "PER": "প্লুতার্ক",
+        "CW": "আইটিউন্স",
+        "PROD": "স্টুকো",
+        "LOC": "জার্মানি"
+    },
+    "TR": {
+        "PER": "türk",
+        "CORP": "wwe",
+        "LOC": "köy",
+        "GRP": "galatasaray",
+        "PROD": "yumurta",
+        "CW": "kur'an"
+    }
+}
